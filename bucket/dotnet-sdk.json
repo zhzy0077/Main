@@ -11,6 +11,10 @@
         "32bit": {
             "url": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/5.0.100/dotnet-sdk-5.0.100-win-x86.zip",
             "hash": "sha512:66bb16f536d7223544c97a33499ab35d35ca0648b80012a9fa7ab13184ac84ecf4b0a2ffa9b2c7829cf525777bca873f62d57989a8c68baa1f0ef327b1b3763c"
+        },
+        "arm64": {
+            "url": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/5.0.100/dotnet-sdk-5.0.100-win-arm64.zip",
+            "hash": "sha512:d6f5057d5b31521219aa8c0a3e5195eae1892e5281109343c4f5605ef95553bc35471be92e0a68cd26b7d80b2b9c5653ddcedcba2a84d14a3b8f44457073e15f"
         }
     },
     "bin": "dotnet.exe",
@@ -33,6 +37,9 @@
             },
             "32bit": {
                 "url": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/$version/dotnet-sdk-$version-win-x86.zip"
+            },
+            "arm64": {
+                "url": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/$version/dotnet-sdk-$version-win-arm64.zip"
             }
         },
         "hash": {
