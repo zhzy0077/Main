@@ -1,12 +1,12 @@
 {
-    "version": "2026-05-18",
+    "version": "2026-05-25",
     "description": "A Rust compiler front-end for IDEs",
     "homepage": "https://rust-analyzer.github.io/",
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rust-lang/rust-analyzer/releases/download/2026-05-18/rust-analyzer-x86_64-pc-windows-msvc.zip",
-            "hash": "9990c96852ba745ad555404747ce3cb1be29d461f968ba68c8316f64452f6a47"
+            "url": "https://github.com/rust-lang/rust-analyzer/releases/download/2026-05-25/rust-analyzer-x86_64-pc-windows-msvc.zip",
+            "hash": "1f4aa76d828ebc79cedf7cd7f6b3fba830fe47b8ad112921235b7b5d7ce43080"
         }
     },
     "bin": "rust-analyzer.exe",
