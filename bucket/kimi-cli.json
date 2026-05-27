@@ -1,12 +1,12 @@
 {
-    "version": "1.44.0",
+    "version": "1.45.0",
     "description": "Kimi CLI is your next CLI agent.",
     "homepage": "https://github.com/MoonshotAI/kimi-cli/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.44.0/kimi-1.44.0-x86_64-pc-windows-msvc.zip",
-            "hash": "b2a5b041a9fee6505f196e4fecac47890c1ad531f47fe4115e51ceade5be6968"
+            "url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.45.0/kimi-1.45.0-x86_64-pc-windows-msvc.zip",
+            "hash": "42790fc5967eda741089b07f87156bc01f1a0d6752376c6d090383cc69f74d34"
         }
     },
     "bin": "kimi.exe",
